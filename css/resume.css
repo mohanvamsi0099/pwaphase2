@@ -1,0 +1,32 @@
+.left{
+  width: 30%;
+  height: 30%;
+  padding:1%;
+  margin: 1%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: #DC7633;
+
+}
+img {
+  width: 30%;
+  height: 30%;
+  border: 2px solid blue;
+}
+tr,td,th{
+  border: 1px solid black;
+}
+
+.right{
+  width: 30%;
+  height: 30%;
+  padding:1%;
+  margin: 1%;
+  border: 2px solid black;
+  border-radius: 25px;
+background-color: #DC7633;
+}
+.main{
+  display: flex;
+
+}
